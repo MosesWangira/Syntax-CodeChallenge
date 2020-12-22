@@ -51,5 +51,5 @@ The link to this app can be downloaded here : <a href ="https://drive.google.com
 You need a laptop and latest release of android studio(preferred)
 
 ## Usage
-Clone this project using this link <a href = "https://github.com/MosesWangira/SyntaxCodeChallenge.git">https://github.com/MosesWangira/SyntaxCodeChallenge.git</a><br>
+Clone this project using this link <a href = "https://github.com/MosesWangira/SyntaxLabCodeChallenge.gitt">https://github.com/MosesWangira/SyntaxLabCodeChallenge.git</a><br>
 Open the project using android studio
