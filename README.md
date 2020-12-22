@@ -1,5 +1,5 @@
 # SyntaxCodeChallenge
-##Syntax Lab Code Challenge
+## Syntax Lab Code Challenge
 
 It displays<br>
 <ul>
