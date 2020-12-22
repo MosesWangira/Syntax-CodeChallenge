@@ -7,7 +7,7 @@ It displays<br>
 <br>
 
 ## Download App
-The link to this app can be downloaded here : <a href ="https://drive.google.com/file/d/1DEE2FvTC9EQTGB-Rikq1TWEh1LokQ-xw/view?usp=sharing">Click here to download</a>
+The link to this app can be downloaded here : <a href ="https://drive.google.com/file/d/1CbV3KJlsujLufa92tnxQaAyeiuP8-MlN/view?usp=sharing">Click here to download</a>
 
 ## App visual images
 
