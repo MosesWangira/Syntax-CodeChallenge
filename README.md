@@ -1,4 +1,4 @@
-# Synt.ax Lab Code Challenge
+# Synt.ax Code Challenge
 
 It displays<br>
 <ul>
