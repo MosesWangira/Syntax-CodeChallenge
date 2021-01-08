@@ -1,5 +1,6 @@
 # Synt.ax Code Challenge
 
+
 It displays<br>
 <ul>
   <li>List of items from : <a href = "https://jsonplaceholder.typicode.com/posts">https://jsonplaceholder.typicode.com/posts</a></li>
